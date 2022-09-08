@@ -1,0 +1,10 @@
+1. Ciclos for: es una herramienta se ejecuta hasta que se cumpla la condición, se utiliza para recorrer arreglos o relizar operaciones en bucle para obtener el valor de una variable acumuladora. Recibe 3 expresiones opcionales en el siguiente orden: 
+* Una variable que se inicializa en el valor que especifiquemos.
+* Una condición a evaluar con la variable que se acaba de inicializar.
+* El incremento de nuestra variable.
+
+2. Operador lógico "Y" el cual compara dos condiciones y si ambas se cumplen se ejecuta el código, se expreza con un doble signo "&", así, &&. Sirve para controlar el flujo de trabajo. Si la primera condición es falsa, la segunda no se evalúa ya que ambas deben ser verdaderas.
+
+3. Operador lógico "O" el cual compara dos condiciones y si una de las 2 es verdadera se ejecuta el código, se expreza con un doble signo "|", así, ||. Sirve para controlar el flujo de trabajo. Si la primera condición es verdadera, la segunda no se evalúa ya que una de las 2 debe ser verdadera.
+
+4. Operador "Not" el cual niega el valor booleano de la expresión, se expreza con un signo de explamación antes de la expresión, así "!". Si la expresión retorna "true" pero antes habíamos definido una negación, el valor que recibimos será "false".

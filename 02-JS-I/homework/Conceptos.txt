@@ -1,0 +1,9 @@
+* Variables -> Guardan información para poder usarla más adelante en el código.
+
+ * Strings -> Cadenas de caracteres, párrafos, palabras, texto en general. Se definen dentro de comillas dobles o simples, cualquier texto entre comillas es String.
+
+ * Funciones (argumentos, `return`) -> Son la forma de crear un bloque de código que realice una tarea especifica. Reciben argumentos, estos son variables que vienen de otro scope y se usan dentro de la función, y retornan un valor.
+
+ * Declaraciones `if` -> Condicionales para evaluar eventos como true o false.
+
+ * Valores booleanos (`true`, `false`) -> Sirven para dar valores de verdadero o falso a variables, conficionales, funciones...

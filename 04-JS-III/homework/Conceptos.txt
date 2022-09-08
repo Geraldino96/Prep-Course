@@ -1,0 +1,1 @@
+1. Los array son contenedores para colecciones de datos ordenados por indice. Admiten cualquier tipo de datos.

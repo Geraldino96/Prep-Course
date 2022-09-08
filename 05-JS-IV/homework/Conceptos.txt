@@ -1,0 +1,9 @@
+* Objetos: Son contenedores de colecciones de datos que a diferencia de los arreglos no trabajan con indice sino con pares de valor, es decir, key:value. Donde el key de los objetos es el indice de los arreglos, pero definido por nosotros. Se instancian usando llaves {}.
+
+* Propiedades: Son parte de cada objeto, cada propiedad guarda información. Se pueden llamar usando notación de punto o de corchetes.
+
+* Métodos: Son parte de cada objeto, cada método desarrolla una función especifica. Se pueden llamar usando notación de punto.
+
+* Bucle `for…in`: Funciona parecido a un ciclo for, pero especificamente para iterar sobre cada par clave:valor de un objeto.
+
+* Notación de puntos vs notación de corchetes: Sirven para asignar valores o llamar métodos y propiedades.

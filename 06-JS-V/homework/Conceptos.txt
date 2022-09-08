@@ -1,0 +1,3 @@
+* `prototype`: Es una forma única de establecer métodos y dar acceso a cada objeto de esa clase a esos métodos. De esta manera se ahorran lineas de código y se usa menos memoria.
+
+* _Constructors_ (de Clases): Nos dan la capacidad de heredar métodos y propiedades de otras clases, que en JS es lo mismo que constructor, así como también definir los métodos y propiedades de la clase en cuestión.
