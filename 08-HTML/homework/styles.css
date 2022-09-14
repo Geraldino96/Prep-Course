@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    color: brown;
+}
+img {
+    width: 400px;
+}
+.thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: burlywood;
+    margin: 50px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.spanID {
+    font-size: 18px;
+    margin: 50px;
+}
+ul {
+    list-style: none;
+}
+
+body {
+    background-image: url("https://i.blogs.es/202202/cascadas/450_1000.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.main {
+    height: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    column-count: 1;
+    flex-direction: column;
+}
+.divClass1 {
+    margin-top: 24px;
+}
+.divClass2 {
+    width: 258.7px;
+    margin-top: 24px;
+    font-size: 18px;
+}
